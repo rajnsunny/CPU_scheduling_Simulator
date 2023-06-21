@@ -22,84 +22,84 @@ Quantum : 2
 
 ## FCFS (First Come First Served)
 - <br/>
-[FCFS](https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/FCFS.h)
+[FCFS](https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/FCFS.h)
 
 - Test Image
 
 > Test Case
 
-<img src="https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/Test%20Image/FCFS1.PNG" width="700" height="auto">
+<img src="https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/Test%20Image/FCFS1.PNG" width="700" height="auto">
 
 <br/>
 
 ## SJF (Shortest Job First)
 - <br/>
-[SJF](https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/SJF.h)
+[SJF](https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/SJF.h)
 
 - Test Image
 
 > Test Case
 
-<img src="https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/Test%20Image/SJF1.PNG" width="700" height="auto">
+<img src="https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/Test%20Image/SJF1.PNG" width="700" height="auto">
 
 <br/>
 
 ## SRT (Shortest Remaining Time)
 - <br/>
-[SRT](https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/SRT.h)
+[SRT](https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/SRT.h)
 
 - Test Image
 
 > Test Case
 
-<img src="https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/Test%20Image/SRT1.PNG" width="700" height="auto">
+<img src="https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/Test%20Image/SRT1.PNG" width="700" height="auto">
 
 <br/>
 
 ## Non-Preemptive Priority Scheduling
 - <br/>
-[NPP](https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/NPPS.h)
+[NPP](https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/NPPS.h)
 
 - Test Image
 
 > Test Case
 
-<img src="https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/Test%20Image/NPPS1.PNG" width="700" height="auto">
+<img src="https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/Test%20Image/NPPS1.PNG" width="700" height="auto">
 
 <br/>
 
 ## Preemptive Priority Scheduling
 - <br/>
-[pp](https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/PPS.h)
+[pp](https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/PPS.h)
 
 - Test Image
 
 > Test Case
 
-<img src="https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/Test%20Image/PPS1.PNG" width="700" height="auto">
+<img src="https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/Test%20Image/PPS1.PNG" width="700" height="auto">
 
 <br/>
 
 ## RR (Round Robin)
 - <br/>
-[RR](https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/RR.h)
+[RR](https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/RR.h)
 
 - Test Image
 
 > Test Case
 
-<img src="https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/Test%20Image/RR1.PNG" width="700" height="auto">
+<img src="https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/Test%20Image/RR1.PNG" width="700" height="auto">
 
 <br/>
 
 ## HRN (Highest Response-Ratio Next)
 - <br/>
-[HRN](https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/HRN.h)
+[HRN](https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/CpuSchedulingAlgorithmsModule/HRN.h)
 
 - Test Image
 > Test Case
 
-<img src="https://github.com/alstn2468/CPU_Scheduling_Simulator/blob/master/Test%20Image/HRN1.PNG" width="700" height="auto">'
+<img src="https://github.com/rajnsunny/CPU_Scheduling_Simulator/blob/master/Test%20Image/HRN1.PNG" width="700" height="auto">'
 
 <br/>
 
